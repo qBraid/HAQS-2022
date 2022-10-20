@@ -44,4 +44,6 @@ git checkout <team_name>
 
 To submit your hack, create a pull request from your team's named branch (created during Step 4 above) following challenge submission instructions.
 
-For help using qBraid, see [Lab User Guide](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/lab/overview.html), or reach out on [Discord](https://discord.gg/gwBebaBZZX).
+For help with these instructions, follow along with the HAQS getting started video demo: https://youtu.be/uYGV9w2DUcg
+
+For other questions or additional help using qBraid, see [Lab User Guide](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/lab/overview.html), or reach out on [Discord](https://discord.gg/gwBebaBZZX).
