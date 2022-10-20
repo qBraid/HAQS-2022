@@ -19,18 +19,10 @@ A leaderboard will be kept on https://account.qbraid.com/haqs that ranks teams i
 
 ### Resources:
 
-- [Quantum Embedding](https://pennylane.ai/qml/glossary/quantum_embedding.html)
-- [Quantum Feature Map](https://pennylane.ai/qml/glossary/quantum_feature_map.html)
-- [Circuit Ansatz](https://pennylane.ai/qml/glossary/circuit_ansatz.html)
-- [Variational Circuit](https://pennylane.ai/qml/glossary/variational_circuit.html)
-- [Quantum Gradient](https://pennylane.ai/qml/glossary/quantum_gradient.html)
-- [Variational Quantum Classifier](https://pennylane.ai/qml/demos/tutorial_variational_classifier.html)
-
+- [Pennylane Key Concepts](https://pennylane.ai/qml/glossary.html)
 - [PennyLane-Braket Plugin](https://amazon-braket-pennylane-plugin-python.readthedocs.io/en/latest/)
 - [Computing gradients in parallel with Amazon Braket](https://pennylane.ai/qml/demos/braket-parallel-gradients.html)
-
 - [Use PennyLane with Amazon Braket](https://docs.aws.amazon.com/braket/latest/developerguide/hybrid.html)
 - [Amazon Braket examples: hybrid quantum algorithms](https://github.com/aws/amazon-braket-examples/tree/main/examples/hybrid_quantum_algorithms)
-
 - [qBraid demo notebooks: quantum jobs](https://github.com/qBraid/qbraid-lab-demo/blob/main/qbraid_quantum_jobs.ipynb)
 - [qBraid CLI: quantum jobs commands](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/cli/jobs.html)
