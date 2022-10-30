@@ -12,7 +12,12 @@ Fill out this PR template to complete your HAQS submission!
 -->
 
 ### Team members
-
+Rahul Bhowmick
+Rajarsi Pal
+Neelkanth Rawat
 ### Submission summary
 
+We made changes to the feature map and ansatz. Step-size =0.2, Batchsize = 40, Iterations = 50, Accuracy = 100%
+
 ### Additional comments
+None
