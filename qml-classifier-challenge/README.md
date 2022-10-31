@@ -1,4 +1,6 @@
-# VQC Challenge
+# QML Challenge
+
+## Variational quantum classifier
 
 In this challenge, you will use [Pennylane](https://github.com/PennyLaneAI/pennylane) and [Amazon Braket](https://github.com/aws/amazon-braket-examples) to implement a variational quantum classifier (VQC) to take on a supervised learning problem based on the work of [Havlíček et al. (2018)](https://arxiv.org/pdf/1804.11326.pdf). Implement each of the four TODOs in [`vqc_challenge.ipynb`](vqc_challenge.ipynb) to construct and train a QML model to solve the binary classification task. You can use the [`gen_binary.py`](gen_binary.py) script to generate a new train/test dataset, and further test your model.
 
@@ -26,3 +28,9 @@ A leaderboard will be kept on https://account.qbraid.com/haqs that ranks teams i
 - [Amazon Braket examples: hybrid quantum algorithms](https://github.com/aws/amazon-braket-examples/tree/main/examples/hybrid_quantum_algorithms)
 - [qBraid demo notebooks: quantum jobs](https://github.com/qBraid/qbraid-lab-demo/blob/main/qbraid_quantum_jobs.ipynb)
 - [qBraid CLI: quantum jobs commands](https://qbraid-qbraid.readthedocs-hosted.com/en/latest/cli/jobs.html)
+
+## Quantum kernel estimator
+
+If your team completes the VQC model with 100% test accuracy, you are eligible to move on to the quantum kernel estimator challenge, which will be used as a tie-breaker for those sharing 1st position on the leaderboard. Follow the instructions in [`kernel_estimator.ipynb`](kernel_estimator.ipynb), and submit your solution using the PR title format: `[KERNEL-ESTIMATOR] [team-name] [date]`. Submissions to this challenge will also be added to the leaderboard. If a second tie-breaker is needed between top submissions, the judges will choose the winner based on overall impression of the solution, e.g. is the code well written and easy to follow, is the implementation elegant or brute force, what plots other visualizations are included, etc.
+
+*Optional:* If you wish to keep the details of your implementation private from other teams, then do not push your changes to [`kernel_estimator.ipynb`](kernel_estimator.ipynb) to your public fork. Instead, we can review your notebook directly from your Lab filesystem. When you are ready to submit, open a PR with just your plots, and include a comment that gives the qBraid account email address under which we can find your full solution.
