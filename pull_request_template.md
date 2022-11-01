@@ -13,6 +13,13 @@ Fill out this PR template to complete your HAQS submission!
 
 ### Team members
 
+A.C.E07  
+Avhijit_Nair  
+John Gardiner  
+rupeshknn  
+Vishal Mandal  
+youyaQ
+
 ### Submission summary
 
 ### Additional comments
