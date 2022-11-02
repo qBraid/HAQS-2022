@@ -1,0 +1,12 @@
+Accuracy: 100.0%
+Predictions: 50
+Correct: 50
+Incorrect: 0
+depth=4
+iterations=28
+optimizer=GradientDescentOptimizer(stepsize=0.1)
+shots=500
+batch_size=10
+Task Charges = 84.0
+Shots Charges = 49.0
+Quantum Cost = 133.0

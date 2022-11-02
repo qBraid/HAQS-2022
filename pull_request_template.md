@@ -13,6 +13,10 @@ Fill out this PR template to complete your HAQS submission!
 
 ### Team members
 
+bart-q#6212
+
 ### Submission summary
+
+Solution of VQC challenge, verified on amazon SV1 simulator with 100% accuracy for default parameters.
 
 ### Additional comments
