@@ -15,7 +15,7 @@ A central feature of Amazon Braket is that its remote simulator can execute mult
 
 ### Leaderboard
 
-A leaderboard will be kept on https://account.qbraid.com/haqs that ranks teams in order of their submitted VQC model accuracy. The leaderboard will be updated every 24 hours with all the submissions from that day. All teams that make a submission, no matter their model's performance, will appear on the leaderboard and therefore be eligable for prizes.
+A leaderboard will be kept on https://account.qbraid.com/haqs that ranks teams in order of their submitted VQC model accuracy. The leaderboard will be updated every 24 hours with all the submissions from that day. All teams that make a submission, no matter their model's performance, will appear on the leaderboard and therefore be eligible for prizes.
 
 *Important*:  Your final model must be tested with on a remote quantum device using the Amazon Braket Pennylane plugin. Submissions that do not interface with [Amazon Braket supported devices](https://docs.aws.amazon.com/braket/latest/developerguide/braket-devices.html) will not be eligible to be ranked on the leaderboard.
 
