@@ -1,0 +1,12 @@
+Accuracy: 100.0%
+Predictions: 200
+Correct: 200
+Incorrect: 0
+depth=11
+iterations=24
+optimizer=qml.GradientDescentOptimizer(stepsize=0.16)
+shots=100
+batch_size=9
+Task Charges = 64.8
+Shots Charges = 7.56
+Quantum Cost = 72.36
