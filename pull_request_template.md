@@ -12,7 +12,10 @@ Fill out this PR template to complete your HAQS submission!
 -->
 
 ### Team members
+Padmapriya Mohan
+Tejas A. Naik
 
 ### Submission summary
+[VQC-CHALLENGE] [The Bohring team] [04-11-22]
 
 ### Additional comments
