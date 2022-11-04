@@ -1,6 +1,6 @@
 # QTicTacToe
 
-A Quantum Version of the classic TicTacToe Game. This game was originally created for the Quantum Coalition Hackathon 2022, and later improved as a personal project. We are still working on a UI, so currently you can only play the game on Jupyter Notebook Consoles.
+A Quantum Version of the classic TicTacToe Game. This game was originally created for the Quantum Coalition Hackathon 2022, and later improved as a personal project and submission for HAQs 2022. We are still working on a UI, so currently you can only play the game on Jupyter Notebook Consoles.
 
 ## General Rules:
 
@@ -21,6 +21,4 @@ As it stands right now, this a game of odds, and in order to make it strategic, 
  
 ## How To Play:
 
-Download the Jupyter Notebook File. Run all the cells Except the Top One! Run the Top Cell last, and Enjoy!
-
-**EDIT:** Version 1 plays on the console. Version 2 has updated graphics for the board.
+Download the Jupyter Notebook File. Run all the cells! You would be able to play the game by running the cell containing main(), and Enjoy!
