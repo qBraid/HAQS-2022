@@ -27,7 +27,8 @@ Oct 21st - Nov 5th 2022
 
 ## Getting started
 
-1. Fork this repository into your account, and copy its git clone url e.g. `https://github.com/<user>/HAQS-2022.git`
+1. Fork this repository into your account, and copy its git clone url e.g. `https://github.com/<user>/HAQS-2022.git`. You should find the URL after clicking the green code button: ![スクリーンショット 2023-01-10 午前11 51 41](https://user-images.githubusercontent.com/32727721/211625871-c1da6c6e-55bb-4d31-9e0e-d29fe5547df7.png)
+
 2. At the top of this `README` in the forked repo, click the **Launch on qBraid** button to clone this repository and launch qBraid Lab.
 3. Open terminal (first icon in the **Other** column in Launcher) and `cd` into the HAQS repo. Set the repo's remote origin using the git clone url you copied in Step 1, and then create a new branch for your team:
 ```bash
